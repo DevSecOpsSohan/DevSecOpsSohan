@@ -118,8 +118,6 @@ I am a Senior DevOps Specialist with strong experience in cloud-native architect
 - Image Scanning
 - IAM
 - Service Control Policies
-- Trivy
-- AWS Inspector
 - AWS Controls
 
 ---
