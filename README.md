@@ -25,7 +25,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ![Argo CD Logo](https://argo-cd.readthedocs.io/en/stable/assets/logo.png)
 
 **Repository:**
-- (https://gitlab.com/learning3282338/Learning.git)
+- https://gitlab.com/learning3282338/Learning.git
 
 **Highlights:**
 - Production-grade GitOps implementation
@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ![Argo Rollouts Logo](https://argo-rollouts.readthedocs.io/en/stable/assets/logo.png)
 
 **Repository:**
-- (https://gitlab.com/learning3282338/argocd-rollout.git)
+- https://gitlab.com/learning3282338/argocd-rollout.git
 
 **Highlights:**
 - Canary and blue-green deployments
