@@ -1,11 +1,27 @@
 ## Hi, I'm Sohan  | Senior DevOps Specialist
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-red?logo=argo)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-ef7b4d?logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623ce4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-ee0000?logo=ansible&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-00c7b7?logo=opentofu&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets-000000?logo=vault&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-fc6d26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-d24939?logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-ef7b4d?logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623ce4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-ee0000?logo=ansible&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-00c7b7?logo=opentofu&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets-000000?logo=vault&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-fc6d26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-d24939?logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success)
 
-Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experience in cloud-native architectures, GitOps, Kubernetes, CI/CD automation, and AWS advanced networking. I focus on building scalable, secure, and production-grade DevOps platforms with real-world use cases.
+I am a Senior DevOps Specialist with strong experience in cloud-native architectures, GitOps, Kubernetes, CI/CD automation, and AWS advanced networking. I focus on building scalable, secure, and production-grade DevOps platforms with real-world use cases.
 
 ---
 
