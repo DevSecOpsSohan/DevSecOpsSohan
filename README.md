@@ -1,4 +1,3 @@
-```md
 ## Hi, I'm Sohan Dogra | Senior DevOps Specialist
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
@@ -125,4 +124,3 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ---
 
 Automate what you can. Observe what matters.
-```
