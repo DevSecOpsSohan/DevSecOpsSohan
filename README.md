@@ -1,4 +1,4 @@
-## Hi, I'm Sohan Dogra | Senior DevOps Specialist
+## Hi, I'm Sohan  | Senior DevOps Specialist
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
