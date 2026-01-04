@@ -134,9 +134,13 @@ I am a Senior DevOps Specialist with strong experience in cloud-native architect
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
+
+
   <a href="mailto:sohandogra703@gmail.com">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/613/021/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Email" height="30" width="40" />
   </a>
+
+
 
   <a href="https://wa.me/917836060751" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
