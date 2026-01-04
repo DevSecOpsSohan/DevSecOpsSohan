@@ -25,7 +25,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ![Argo CD Logo](https://argo-cd.readthedocs.io/en/stable/assets/logo.png)
 
 **Repository:**
-- Add your Argo CD repository link here
+- (https://gitlab.com/learning3282338/Learning.git)
 
 **Highlights:**
 - Production-grade GitOps implementation
@@ -34,7 +34,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 - RBAC, SSO, and multi-environment setup
 
 **Live Argo CD Project:**
-- Add your Argo CD realtime project link here
+- https://gitlab.com/learning3282338/arogcd-practice.git
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ![Argo Rollouts Logo](https://argo-rollouts.readthedocs.io/en/stable/assets/logo.png)
 
 **Repository:**
-- Add your Argo Rollouts repository link here
+- (https://gitlab.com/learning3282338/argocd-rollout.git)
 
 **Highlights:**
 - Canary and blue-green deployments
@@ -58,7 +58,7 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
 
 **Repository:**
-- Add your AWS Advanced Networking repository link here
+- https://gitlab.com/learning3282338/aws-advance-networking.git
 
 **Covers:**
 - VPC CIDR planning and IP exhaustion strategies
@@ -95,11 +95,15 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 - GitHub Actions
 - GitLab CI
 - Jenkins
+- ArgoCD
 
 **Monitoring and Logging:**
 - Prometheus
 - Grafana
+- Alertmanager
+- VictoriaMetrics
 - ELK Stack
+- Opensearch
 
 **Security:**
 - SAST
@@ -107,12 +111,16 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 - Image Scanning
 - IAM
 - Service Control Policies
+- Trivy
+- AWS Inspector
+- AWS Controls
 
 ---
 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate (SAA-C03)
+- Certified Kubernetes Administrator (CKA)
 
 ---
 
@@ -120,7 +128,6 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 
 - LinkedIn: https://www.linkedin.com/in/devopsspecialist/
 - Email: sohandogra703@gmail.com
+- Phone Number: +91-8287332760/+91-7836060751
 
 ---
-
-Automate what you can. Observe what matters.
