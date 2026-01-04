@@ -16,7 +16,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623ce4?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-ee0000?logo=ansible&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-00c7b7?logo=opentofu&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets-000000?logo=vault&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-fc6d26?logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-d24939?logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success)
