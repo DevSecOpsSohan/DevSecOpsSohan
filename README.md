@@ -128,6 +128,6 @@ Welcome to my GitHub profile. I am a Senior DevOps Specialist with strong experi
 
 - LinkedIn: https://www.linkedin.com/in/devopsspecialist/
 - Email: sohandogra703@gmail.com
-- Phone Number: +91-8287332760/+91-7836060751
+- Phone Number: +91-8287332760 / +91-7836060751
 
 ---
