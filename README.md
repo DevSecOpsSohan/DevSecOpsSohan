@@ -122,30 +122,56 @@ I am a Senior DevOps Specialist with strong experience in cloud-native architect
 
 ---
 
-## Certifications
+### Certifications
 
-- AWS Certified Solutions Architect – Associate (SAA-C03)
-- Certified Kubernetes Administrator (CKA)
+<p align="left">
+  <a href="https://www.credly.com/badges/347ea6c6-d3fe-4bc5-b674-b6cb46c57fa2/linked_in?t=sk7ewf" target="_blank">
+    <img
+      align="center"
+      src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      alt="AWS Certified Solutions Architect – Associate"
+      height="90"
+      width="90"
+    />
+  </a>
+
+  <a href="https://www.credly.com/badges/30f306e2-ff52-4d21-aa27-74ff4647ef14/linked_in_profile" target="_blank">
+    <img
+      align="center"
+      src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+      alt="Certified Kubernetes Administrator (CKA)"
+      height="90"
+      width="90"
+    />
+  </a>
+</p>
+
+----
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/devopsspecialist/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-
-
   <a href="mailto:sohandogra703@gmail.com">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/613/021/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Email" height="30" width="40" />
   </a>
-
-
 
   <a href="https://wa.me/917836060751" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
 
+
+### About Me & Open to Collaborations
+
+- Open to project collaborations
+- Helping startups and teams build scalable, secure cloud and Kubernetes platforms
+- Offering DevOps consulting, architecture reviews, and mentorship
+- Let’s connect: [office@devopsshack.com](mailto:office@devopsshack.com)
+
+> "Turning complex cloud challenges into scalable, automated, production-ready systems."
 
 ---
